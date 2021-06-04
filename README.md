@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sotek77😝
-- 👀 I’m interested in ...🎮🎼🎵🎹🎨🎬 MULTIMEDIA
-- 🌱 I’m currently learning ...💡Design and Production🐔
-- 💞️ I’m looking to collaborate on ...💼B&DAMedia, FACEBOOK, ANDROID
+- 👋 Hi, I’m @Sotek77😝XP
+- 👀 I’m interested in ...🎮🎼🎵🎹🎨🎬 MULTIMEDIA PLUGINS CODES
+- 🌱 I’m currently learning ...💡Design and Production🐔JAVA KOTLIN HTML
+- 💞️ I’m looking to collaborate on ...💼B&DAMedia PROJECTS
 - 📫 How to reach me ...sotek77@hotmail.com
 
 <!---
